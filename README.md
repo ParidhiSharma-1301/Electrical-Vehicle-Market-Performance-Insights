@@ -43,7 +43,7 @@ docs/                   report PDF, charts, build guide, performance record
 
 ## Links (fill in)
 - Tableau Public dashboard:https://public.tableau.com/app/profile/paridhi.sharma4119/viz/EV_Market_Performance_Market_Story_2026-10-25_17931234374410/EVExecutiveDashboard
-- Demo video: ADD LinkW
+- Demo video: https://drive.google.com/file/d/1Wgz4UCBoPV1b3UMTqLO2Kl8JV6TPaOQE/view?usp=sharing
 - Website link: http://localhost:5173/
 - 
 
